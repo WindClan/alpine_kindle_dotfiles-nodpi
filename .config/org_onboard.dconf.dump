@@ -1,8 +1,8 @@
 [/]
 current-settings-page=8
 schema-version='2.3'
-system-theme-associations={'HighContrast': '/home/alpine/.local/share/onboard/themes/HighContrast.theme', 'HighContrastInverse': 'HighContrastInverse', 'LowContrast': 'LowContrast', 'ContrastHighInverse': 'HighContrastInverse', 'Default': ''}
-theme='/home/alpine/.local/share/onboard/themes/HighContrast.theme'
+system-theme-associations={'HighContrast': 'HighContrast', 'HighContrastInverse': 'HighContrastInverse', 'LowContrast': 'LowContrast', 'ContrastHighInverse': 'HighContrastInverse', 'Default': ''}
+theme='HighContrast'
 use-system-defaults=false
 xembed-onboard=true
 
